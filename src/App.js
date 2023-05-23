@@ -1,15 +1,9 @@
-import React from "react";
-import "./App.css";
-import Main from "./components/Main";
+import React from 'react'
 
 function App() {
   return (
-    <div className="grid-container">
-      <div className="aside">Covid 19</div>
-      <Main />
-      <div className="table-container">heelo</div>
-    </div>
-  );
+    <div>App</div>
+  )
 }
 
-export default App;
+export default App
